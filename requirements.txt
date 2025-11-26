@@ -1,0 +1,3 @@
+nado-protocol
+python-dotenv
+eth-account
